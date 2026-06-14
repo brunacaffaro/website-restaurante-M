@@ -4,6 +4,6 @@
 ⁠
 3 - Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação - 
 
-4 - Imagens dos Protótipos de Interface
+4 - Imagens dos Protótipos de Interface - https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1
 
 5 - Vídeo de Apresentação
