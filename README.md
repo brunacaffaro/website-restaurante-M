@@ -18,13 +18,13 @@ O produto resolve um problema real de negócio: hoje, as informações do restau
 
 ## 🔗 Estrutura e Links
 
-| Recurso | Link/Arquivo | Link/Arquivo | Backup por Segurança |
-|---|---|---|---|
-| 🗂️ Lean Inception + MVP Canvas (Miro) | [Board Miro - Público](https://miro.com/app/board/uXjVHJcjbDM=/?share_link_id=675258886912) | [Link em .txt](./canvas-url.txt) |[Exportação PDF](./arquivos-backup/1.LeanInceptionWorkshop.pdf)|
-| 🎨 Wireframes (Figma) | [Protótipo Figma - Público](https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1) | [Pasta Wireframes](./wireframes/) |-|
-| 📋 Product Backlog | [product-backlog.pdf](./product-backlog.pdf) | - |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
-| 📋 Sprint Backlog | [sprint-backlog.pdf](./sprint-backlog.pdf) | - |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
-| 🎥 Vídeo de Apresentação | [Link](https://www.loom.com/share/21da9234abbb4fa9983ca0d240fcd73b) | - | [Transcrição de Áudio](./arquivos-backup/audio.pdf) |
+| Recurso | Link/Arquivo | Link/ Arquivo/ Backup por Segurança |
+|---|---|---|
+| 🗂️ Lean Inception + MVP Canvas (Miro) | [Board Miro - Público](https://miro.com/app/board/uXjVHJcjbDM=/?share_link_id=675258886912) | [Link em .txt](./canvas-url.txt) |
+| 🎨 Wireframes (Figma) | [Protótipo Figma - Público](https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1) | [Pasta Wireframes](./wireframes/) |
+| 📋 Product Backlog | [product-backlog.pdf](./product-backlog.pdf) |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
+| 📋 Sprint Backlog | [sprint-backlog.pdf](./sprint-backlog.pdf) |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
+| 🎥 Vídeo de Apresentação | [Link](https://www.loom.com/share/21da9234abbb4fa9983ca0d240fcd73b) | [Transcrição de Áudio](./arquivos-backup/audio.pdf) |
 
 ## 🛠️ Ferramentas Utilizadas
 
