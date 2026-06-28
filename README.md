@@ -16,21 +16,15 @@ O produto resolve um problema real de negócio: hoje, as informações do restau
 ### Incremento 1 (planejado):
 - Lojinha de vouchers com carrinho, checkout e pagamento online (PIX e cartão)
 
-## 📁 Estrutura do Repositório
-⁠1 - Lean Inception detalhada no Miro, incluindo o MVP Canvas - https://miro.com/app/board/uXjVHJcjbDM=/?share_link_id=675258886912
-2 - ⁠Backlog do Produto, Definition of Ready e Definition of Done - incluindo ao menos um requisito não funcional - anexo
-3 - Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação - anexo
-4 - Imagens dos Protótipos de Interface - https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1 e anexo
-5 - Vídeo de Apresentação - 
+## 🔗 Estrutura e Links
 
-## 🔗 Links
-
-| Recurso | Link |
-|---|---|
-| 🗂️ Lean Inception + MVP Canvas (Miro) | [Board Miro - Público](https://miro.com/app/board/uXjVHJcjbDM=/?share_link_id=675258886912) | Arquivo canvas_url.txt | Arquivo em PDF
-| 🎨 Wireframes (Figma) | [Protótipo](https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1) | Wireframes em Imagens
-| 📋 Backlog (Jira) | Arquivos |
-| 🎥 Vídeo de Apresentação | Em Breve |
+| Recurso | Link/Arquivo | Link/Arquivo | Backup por Segurança |
+|---|---|---|---|
+| 🗂️ Lean Inception + MVP Canvas (Miro) | [Board Miro - Público](https://miro.com/app/board/uXjVHJcjbDM=/?share_link_id=675258886912) | [Link em .txt](./canvas-url.txt) |[Exportação PDF](./arquivos-backup/1.LeanInceptionWorkshop.pdf)|
+| 🎨 Wireframes (Figma) | [Protótipo Figma - Público](https://www.figma.com/design/D1KkK8XAUN78836gz9TY0X/Sem-t%C3%ADtulo?node-id=1-4&t=weWfeQGZxVIUNljd-1) | [Pasta Wireframes](./wireframes/) |-|
+| 📋 Product Backlog | [product-backlog.pdf](./product-backlog.pdf) | - |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
+| 📋 Sprint Backlog | [sprint-backlog.pdf](./sprint-backlog.pdf) | - |[Exportação Excel](./arquivos-backup/2.JiraExcelExport.xlsx)|
+| 🎥 Vídeo de Apresentação | Link | Arquivo |-|
 
 ## 🛠️ Ferramentas Utilizadas
 
